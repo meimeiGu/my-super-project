@@ -1,0 +1,3 @@
+[submodule "my-module-one"]
+    path = my-module-one
+    url = git@github.com:meimeiGu/my-module-one.git
