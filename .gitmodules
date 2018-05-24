@@ -2,3 +2,7 @@
     path = my-module-one
     url = git@github.com:meimeiGu/my-module-one.git
     branch = master
+ [submodule "my-module-two"]
+     path = my-module-one
+     url = git@github.com:meimeiGu/my-module-one.git
+     branch = master
